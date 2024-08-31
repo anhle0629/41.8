@@ -1,0 +1,17 @@
+grid: need to be at the parent
+    props:
+        title
+    state: 
+        array of cell
+    onclick:
+        need to turn on and off light
+
+light: need to be in with parent 
+    -props:
+        name
+    state:
+        none?
+    onclick:
+        none?
+cell: need to make a file for an individual cell
+
